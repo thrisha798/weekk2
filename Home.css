@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://cdn.wallpapersafari.com/68/66/PLgQbl.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #eb9898; /* Background color for the entire page */
+  margin: 0; /* Remove default body margin */
+}
+
+div {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #f31111;
+  font-size: 2rem;
+}
+
+p {
+  color: #ecdfe0;
+  font-size: 1rem;
+  margin-top: 10px;
+}
